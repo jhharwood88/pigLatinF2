@@ -1,0 +1,22 @@
+{
+  "name": "pigLatinF2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhharwood88/pigLatinF2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhharwood88/pigLatinF2/issues"
+  },
+  "homepage": "https://github.com/jhharwood88/pigLatinF2",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
